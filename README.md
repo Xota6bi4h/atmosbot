@@ -1,4 +1,5 @@
+# discord.js-v13-with-slash-command
 
-# Haikus for Codespaces
+`npm install` - install all required dependancies
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+`node index.js` - start the project
